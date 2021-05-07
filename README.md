@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ThemeSwitch" title="ThemeSwitch" src="./public/gif.gif" />
+  <img alt="ThemeSwitch" title="ThemeSwitch" src="./public/gif.gif"/>
 </h1>
 
 <p align="center">
